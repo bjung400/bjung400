@@ -3,5 +3,5 @@ Hi there 👋
 
 ## Tech
 - C
-- Pythohn
+- #3776AB
 - Bash
