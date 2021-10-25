@@ -3,5 +3,5 @@ Hi there 👋
 
 ## Tech
 - C
-- #3776AB
+- Python
 - Bash
