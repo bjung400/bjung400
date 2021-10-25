@@ -1,7 +1,7 @@
 # ByungwookJung
 Hi there 👋
 
-## Tech
+## Tech Stack
 - C
 - Python
 - Bash
